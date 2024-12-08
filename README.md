@@ -1,16 +1,13 @@
 ## Hi there 👋
+<p align="left">
+I'm Noam Yaffe, a cyber & tech enthusiast. Currently, I'm an application security researcher, and I also lecture about Secure Programming for developers at companies as a freelancer.
+<br>
+I started my journey on the computer at the age of 15, going from being a full-stack developer to penetration testing, red-team member, and vulnerability research (and from time to time also bug bounty, it is hard to resist after all...).
+<br>
+I mainly use Python to automate the exploit flow and Node JS to create backend-related infrastructure and API's.
+<br>
+<br>
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/noamYaffe/) or [Email](mailto:noam.infosec@gmail.com)! 🚀
+</p>
 
-<!--
-**noamYaffe1/noamYaffe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
