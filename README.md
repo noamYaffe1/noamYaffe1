@@ -9,7 +9,7 @@ I started my journey on the computer at the age of 15, going from being a full-s
 I mainly use Python to automate the daily repetitive work such as recon or scanning and use Node JS to create backend-related infrastructure and APIs when needed.
 <br>
 <br>
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/noamYaffe/) or [Email](mailto:noam.infosec@gmail.com)! 🚀
+Feel free to connect via <a href="https://www.linkedin.com/in/noamYaffe/">LinkedIn</a> or <a href="mailto:noam.infosec@gmail.com">Email</a>! 🚀
 </p>
 
 ---
