@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="left">
-I'm Noam, a cyber & tech enthusiast.
+I'm Noam,
 <br>
 Application security researcher || Red Teaming || Lecture about Secure Programming for developers at various companies
 <br><br>
